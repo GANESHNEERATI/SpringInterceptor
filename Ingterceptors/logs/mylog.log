@@ -1,0 +1,2 @@
+08/10/2019 11:34:50.875 WARN  [http-nio-8080-exec-1] com.telusko.demo.HomeController - THIS IS WARN
+08/10/2019 11:34:50.877 ERROR [http-nio-8080-exec-1] com.telusko.demo.HomeController - THIS IS ERROR
